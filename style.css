@@ -1,0 +1,79 @@
+a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+a:hover {
+    text-decoration: none;
+    color: white; 
+}
+.text-inf.fb{
+    background-image: linear-gradient(to bottom right,  #4bc4dc, #00ff897d);
+    
+}
+.text-inf.fb:hover {
+    background-color: rgb(10, 147, 189);
+}
+.text-inf.gm{
+    background-image: linear-gradient(to bottom left,  #f90000a6, #ffa50070);
+}
+.text-inf.gm:hover{
+    background-color:#d64312c2;
+}
+.text-inf.zl{
+    background-image: linear-gradient(to bottom right, #2600f9a6, #00e7ff70);
+}
+.text-inf.zl:hover{
+    background-color:#128ed6c2;
+}
+.text-inf.github{
+    background-image: linear-gradient(to bottom left,  #020202a6, #b5b7b770);
+}
+.text-inf.github:hover{
+    background-color:#3e4041c2;
+}
+.text-inf.ins{
+    background-image: linear-gradient(to bottom right, #f500f9f0, #ffd400c2);
+}
+.text-inf.ins:hover{
+    background-color:#f06f06c2;
+}
+.text-inf.discord{
+    background-image: linear-gradient(to bottom left,   #a606e8a6, #4374ffba);
+}
+.text-inf.discord:hover{
+    background-color:#157cafc2;
+}
+.text-inf.ln{
+    background-image: linear-gradient(to bottom right,  #fff700, #1ce4f999);
+}
+.text-inf.ln:hover{
+    background-color:#c7c408c2;
+}
+.text-inf.tiktok{
+    background-image: linear-gradient(to bottom left,  #00ffadbd, #ef009ade);
+}
+.text-inf .tiktok:hover{
+    background-color:#af159ac2;
+}
+.img-inf{
+    margin: 2px;
+    border-radius: 9px;
+    background-image: linear-gradient(  #ffffff, #ffffff);
+}
+body{
+    background-color: #fde0e0;
+}
+ img {
+	margin-left: auto;
+	margin-right: auto;
+    margin-top: 2px;
+	display: block;
+    
+}
+
+.text-inf {
+    margin: 2px;
+    border-radius: 9px;
+}
